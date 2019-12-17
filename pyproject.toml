@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pd_qgrid"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["Iyed Ghedamsi <iyed.ghdemsi@gmail.com>"]
 
